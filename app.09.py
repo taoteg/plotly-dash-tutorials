@@ -6,6 +6,8 @@ from dash.dependencies import Input, Output
 import pandas as pd
 
 """
+Callbacks
+
 Here is an example where a dcc.Slider updates a dcc.Graph.
 
 In this example, the "value" property of the Slider is the input of the app and
