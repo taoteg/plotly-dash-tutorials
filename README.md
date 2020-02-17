@@ -1,23 +1,31 @@
 # Plotly Dash Tutorials
 
+
 _Resources & Documentation_
 
-Flask Framework
+### Python, Flask Framework & ReactJS
+- Python: https://www.python.org/download/releases/3.0/
 - https://palletsprojects.com/p/flask/
+- ReactJS: https://reactjs.org/
 
-Plotly Dash.js Library
+### Plotly & Dash.js Library
+- plotlyJS: https://plot.ly/python/
 - https://plot.ly/dash/
 - https://github.com/plotly/dash
 
-Dash Library
-- https://dash.plot.ly/
-- https://dash.plot.ly/installation
-- https://dash.plot.ly/getting-started
-- https://dash.plot.ly/external-resources          <-- CSS & JS
-- https://dash.plot.ly/getting-started-part-2
-- https://dash.plot.ly/state
-- https://dash.plot.ly/interactive-graphing
--
+### Dash Tutorial
+- Tutorials: https://dash.plot.ly/
+- Part 1: https://dash.plot.ly/installation
+- Part 2: https://dash.plot.ly/getting-started
+- Part 3: https://dash.plot.ly/getting-started-part-2
+- Part 4: https://dash.plot.ly/state
+- Part 5: https://dash.plot.ly/interactive-graphing
+- Part 6: https://dash.plot.ly/sharing-data-between-callbacks
+- Part 7: https://dash.plot.ly/faqs
+
+### Additional Resources
+- CSS & JS:  https://dash.plot.ly/external-resources
+
 
 _Notes on Dash apps_
 
