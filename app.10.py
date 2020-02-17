@@ -17,7 +17,20 @@ Here's a simple example that binds five Inputs, the value property of:
 to
     - 1 Output component (the figure property of the Graph component).
 
-Notice how the app.callback lists all five dash.dependencies.Input inside a list in the second argument.
+Notice how the app.callback lists all five dash.dependencies.Input inside a list
+in the second argument.
+
+In this example, the update_graph function gets called whenever the value property
+of the Dropdown, Slider, or RadioItems components change.
+
+The input arguments of the update_graph function are the new or current value of
+each of the Input properties, in the order that they were specified.
+
+Even though only a single Input changes at a time (a user can only change the value
+of a single Dropdown in a given moment), Dash collects the current state of all of
+the specified Input properties and passes them into your function for you.
+
+Your callback functions are always guaranteed to be passed the representative state of the app.
 """
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
