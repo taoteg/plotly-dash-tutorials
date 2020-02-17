@@ -5,7 +5,7 @@ _Resources & Documentation_
 
 ### Python, Flask Framework & ReactJS
 - Python: https://www.python.org/download/releases/3.0/
-- https://palletsprojects.com/p/flask/
+- Flask: https://palletsprojects.com/p/flask/
 - ReactJS: https://reactjs.org/
 
 ### Plotly & Dash.js Library
