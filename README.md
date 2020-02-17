@@ -2,14 +2,18 @@
 
 _Resources & Documentation_
 
+Flask Framework
 - https://palletsprojects.com/p/flask/
 
+Plotly Dash.js Library
 - https://plot.ly/dash/
 - https://github.com/plotly/dash
+
+Dash Library
 - https://dash.plot.ly/
 - https://dash.plot.ly/installation
 - https://dash.plot.ly/getting-started
-- https://dash.plot.ly/external-resources   <-- CSS & JS
+- https://dash.plot.ly/external-resources          <-- CSS & JS
 - https://dash.plot.ly/getting-started-part-2
 - https://dash.plot.ly/state
 -
@@ -29,5 +33,3 @@ For reference, see these:
 - dash_html_components gallery: https://dash.plot.ly/dash-html-components
 
 - Dash apps are built off of a set of simple but powerful principles: declarative UIs that are customizable through reactive and functional Python callbacks. Every element attribute of the declarative components can be updated through a callback and a subset of the attributes, like the value properties of the dcc.Dropdown, are editable by the user in the interface.
-
--

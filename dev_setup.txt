@@ -89,4 +89,4 @@ Create your first app.
 Also:
 
 > pip install pandas
->
+> python -m pip install ipykernel
