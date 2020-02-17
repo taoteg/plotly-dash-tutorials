@@ -7,6 +7,8 @@ on any of the components to learn more about a component and its available argum
 
 Eample.
 
+$ python
+>>> import dash_core_components as dcc
 >>> help(dcc.Dropdown)
 class Dropdown(dash.development.base_component.Component)
 |  A Dropdown component.
