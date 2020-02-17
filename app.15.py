@@ -1,10 +1,11 @@
+# -*- coding: utf-8 -*-
 import dash
 import dash_html_components as html
 from dash.dependencies import Input, Output
 from dash.exceptions import PreventUpdate
 
 """
-Using PreventUpdate in Callback
+Part 4C: Using PreventUpdate in Callback
 
 In certain situations, you don't want to update the callback output.
 You can achieve this by raising a PreventUpdate exception in the callback function.

@@ -4,9 +4,9 @@ import dash_core_components as dcc
 import dash_html_components as html
 
 """
-More about HTML
+Part 2B: Making Your First Change
 
-Basic Plotly Dash App w/Custom Styles.
+More about HTML & Dash Apps w/Custom Styles.
 
 The dash_html_components library contains a component class for every HTML tag as
 well as keyword arguments for all of the HTML arguments.

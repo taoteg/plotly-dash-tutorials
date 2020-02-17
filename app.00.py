@@ -1,5 +1,6 @@
+# -*- coding: utf-8 -*-
 """
-Dash Installation
+Part 1: Dash Installation
 
 In your terminal, install several dash libraries.
 These libraries are under active development, so install and upgrade frequently.

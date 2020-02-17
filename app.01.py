@@ -4,7 +4,7 @@ import dash_core_components as dcc
 import dash_html_components as html
 
 """
-Basic Plotly Dash App.
+Part 2A: Dash Layout
 
 - The layout is composed of a tree of "components" like html.Div and dcc.Graph.
 

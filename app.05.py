@@ -1,9 +1,10 @@
+# -*- coding: utf-8 -*-
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
 
 """
-Markdown
+Part 2E: Markdown
 
 While Dash exposes HTML through the dash_html_components library, it can be
 tedious to write your copy in HTML. For writing blocks of text, you can use the

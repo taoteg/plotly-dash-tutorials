@@ -5,7 +5,7 @@ import dash_html_components as html
 from dash.dependencies import Input, Output
 
 """
-Dash State
+Part 4A: Dash State
 
 In this example, the callback function is fired whenever any of the attributes
 described by the dash.dependencies.Input change.

@@ -5,7 +5,7 @@ import dash_html_components as html
 from dash.dependencies import Input, Output
 
 """
-Chained Callbacks
+Part 3E: Chained Callbacks
 
 You can also chain outputs and inputs together:
 the output of one callback function could be the input of another callback function.

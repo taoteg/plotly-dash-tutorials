@@ -1,10 +1,11 @@
+# -*- coding: utf-8 -*-
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
 
 """
-Basic Dash Callbacks
+Part 3A: Basic Dash Callbacks
 
 Dash App Layout
 

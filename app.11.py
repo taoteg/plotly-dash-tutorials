@@ -1,10 +1,11 @@
+# -*- coding: utf-8 -*-
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
 
 """
-Multiple Outputs
+Part 3D: Multiple Outputs
 
  - New in dash 0.39.0
 

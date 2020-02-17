@@ -16,6 +16,7 @@ Dash Library
 - https://dash.plot.ly/external-resources          <-- CSS & JS
 - https://dash.plot.ly/getting-started-part-2
 - https://dash.plot.ly/state
+- https://dash.plot.ly/interactive-graphing
 -
 
 _Notes on Dash apps_

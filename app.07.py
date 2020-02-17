@@ -1,5 +1,6 @@
+# -*- coding: utf-8 -*-
 """
-Calling help
+Part 2G: Calling help
 
 Dash components are declarative: every configurable aspect of these components is
 set during instantiation as a keyword argument. Call help in your Python console

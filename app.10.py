@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
@@ -6,7 +7,7 @@ from dash.dependencies import Input, Output
 import pandas as pd
 
 """
-Multiple inputs
+Part 3C: Multiple Inputs
 
 In Dash, any "Output" can have multiple "Input" components.
 
