@@ -10,12 +10,10 @@ app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 app.layout = html.Div(children=[
     html.H1(children='Presenting Dash'),
 
-    html.Div(children='''
-        Dash: A web application framework for Python.
-    '''),
+    html.Div(children='''Dash: A web application framework for Python.'''),
 
     dcc.Graph(
-        id='example-graph',
+        id='example-01',
         figure={
             'data': [
                 {'x': [3, 6, 9], 'y': [4, 1, 2], 'type': 'bar', 'name': 'SF'},
