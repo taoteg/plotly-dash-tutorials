@@ -84,19 +84,9 @@ Dash declaratively defines component layouts.
 ____________________________________________________________
 Create your first app.
 
+...
 
+Also:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-____________________________________________________________
+> pip install pandas
+> 
