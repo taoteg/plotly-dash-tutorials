@@ -1,0 +1,102 @@
+Plotly Dash Tutorials
+
+____________________________________________________________
+Description:
+
+Dash is written on top of Flask, Plotly.js, and React.js, Dash is ideal for building data visualization apps with highly custom user interfaces in pure Python.
+Uses D3 and WebGL under the hood.
+
+https://www.youtube.com/watch?time_continue=5&v=5BAthiN0htc&feature=emb_logo
+
+Note: R + Shiney is similar to Dash + Plotly
+
+____________________________________________________________
+Objective:
+
+Building a single page app in flask that serves a plotly dash page of visualized data.
+
+Goals:
+
+- Setup stack
+- Build simple page
+- Layout template
+- Add data & components
+- Add webhooks (to update dashboard)
+- Add bootstrap to polish design/behavior
+
+____________________________________________________________
+Tech Stack:
+
+- https://plot.ly/dash/
+- https://dash.plot.ly/
+- https://github.com/plotly/dash
+- https://palletsprojects.com/p/flask/
+- https://www.youtube.com/playlist?list=PLCDERj-IUIFCaELQ2i7AwgD2M6Xvc4Slf
+
+____________________________________________________________
+Using clean Venv:
+
+  $ conda create -y -n code.python.plotly.dash python=3.6.10 nodejs -v
+  $ conda activate code.python.plotly.dash
+
+____________________________________________________________
+Install dependencies:
+
+  $ pip install dash==1.8.0
+  $ pip list
+  Package              Version
+  -------------------- -------------------
+  certifi              2019.11.28
+  Click                7.0
+  dash                 1.8.0
+  dash-core-components 1.7.0
+  dash-html-components 1.0.2
+  dash-renderer        1.2.3
+  dash-table           4.6.0
+  Flask                1.1.1
+  Flask-Compress       1.4.0
+  future               0.18.2
+  itsdangerous         1.1.0
+  Jinja2               2.11.1
+  MarkupSafe           1.1.1
+  pip                  20.0.2
+  plotly               4.5.0
+  retrying             1.3.3
+  setuptools           45.2.0.post20200209
+  six                  1.14.0
+  Werkzeug             1.0.0
+  wheel                0.34.2
+
+____________________________________________________________
+Check installed versions:
+
+  $ python
+  >>> import dash_core_components as dcc
+  >>> print(dcc.__version__)
+  1.7.0
+  >>> exit()
+
+____________________________________________________________
+Conceptual/Theory
+
+Dash declaratively defines component layouts.
+
+____________________________________________________________
+Create your first app.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+____________________________________________________________
