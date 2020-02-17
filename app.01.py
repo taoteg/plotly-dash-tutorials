@@ -4,7 +4,7 @@ import dash_core_components as dcc
 import dash_html_components as html
 
 """
-Basic Plotly Dash Example App.
+Basic Plotly Dash App.
 
 - The layout is composed of a tree of "components" like html.Div and dcc.Graph.
 
@@ -26,10 +26,11 @@ Basic Plotly Dash Example App.
 
 - The fonts in your application will look a little bit different than what is displayed here.
   This application is using a custom CSS stylesheet to modify the default styles of the elements.
-  You can learn more in the css tutorial, but for now you can initialize your app with:
+
+You can learn more in the css tutorial, but for now you can initialize your app with:
     external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
     app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
-  to get the same look and feel of these examples.
+to get the same look and feel of these examples.
 """
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']

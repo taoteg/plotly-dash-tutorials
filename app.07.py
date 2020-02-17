@@ -1,6 +1,6 @@
-# Calling Help
-
 """
+Calling help
+
 Dash components are declarative: every configurable aspect of these components is
 set during instantiation as a keyword argument. Call help in your Python console
 on any of the components to learn more about a component and its available arguments.

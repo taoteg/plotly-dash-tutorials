@@ -4,17 +4,26 @@ import dash_core_components as dcc
 import dash_html_components as html
 
 """
-In this example, we modified the inline styles of the html.Div and html.H1 components with the style property.
+More about HTML
 
-html.H1('Hello Dash', style={'textAlign': 'center', 'color': '#ac99dc'}) is rendered in the Dash application as <h1 style="text-align: center; color: #ac99dc">Hello Dash</h1>.
+Basic Plotly Dash App w/Custom Styles.
+
+The dash_html_components library contains a component class for every HTML tag as
+well as keyword arguments for all of the HTML arguments.
+
+In this example, we modified the inline styles of the html.Div and html.H1 components
+with the style property.
+
+html.H1('Hello Dash', style={'textAlign': 'center', 'color': '#ac99dc'}) is rendered
+in the Dash application as <h1 style="text-align: center; color: #ac99dc">Hello Dash</h1>.
 
 There are a few important differences between the dash_html_components and the HTML attributes:
 
-    - The style property in HTML is a semicolon-separated string. In Dash, you can just supply a dictionary.
-    - The keys in the style dictionary are camelCased. So, instead of text-align, it's textAlign.
-    - The HTML class attribute is className in Dash.
-    - The children of the HTML tag is specified through the children keyword argument.
-      By convention, this is always the first argument and so it is often omitted.
+- The style property in HTML is a semicolon-separated string. In Dash, you can just supply a dictionary.
+- The keys in the style dictionary are camelCased. So, instead of text-align, it's textAlign.
+- The HTML class attribute is className in Dash.
+- The children of the HTML tag is specified through the children keyword argument.
+  By convention, this is always the first argument and so it is often omitted.
 """
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']

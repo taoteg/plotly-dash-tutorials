@@ -4,6 +4,10 @@ import dash_html_components as html
 from dash.dependencies import Input, Output
 
 """
+Basic Dash Callbacks
+
+Dash App Layout
+
 In the previous chapter on `app.layout` we learned that the app.layout describes
 what the app looks like and is a hierarchical tree of components.
 

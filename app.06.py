@@ -4,6 +4,8 @@ import dash_core_components as dcc
 import dash_html_components as html
 
 """
+Core Components
+
 The dash_core_components includes a set of higher-level components like
 dropdowns, graphs, markdown blocks, and more.
 

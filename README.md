@@ -1,5 +1,19 @@
 # Plotly Dash Tutorials
 
+_Resources & Documentation_
+
+- https://palletsprojects.com/p/flask/
+
+- https://plot.ly/dash/
+- https://github.com/plotly/dash
+- https://dash.plot.ly/
+- https://dash.plot.ly/installation
+- https://dash.plot.ly/getting-started
+- https://dash.plot.ly/external-resources   <-- CSS & JS
+- https://dash.plot.ly/getting-started-part-2
+- https://dash.plot.ly/state
+-
+
 _Notes on Dash apps_
 
 - New in dash 0.30.0 and dash-renderer 0.15.0, Dash includes "hot-reloading", this features
@@ -13,3 +27,7 @@ For reference, see these:
 - dash_core_components gallery: https://dash.plot.ly/dash-core-components
 
 - dash_html_components gallery: https://dash.plot.ly/dash-html-components
+
+- Dash apps are built off of a set of simple but powerful principles: declarative UIs that are customizable through reactive and functional Python callbacks. Every element attribute of the declarative components can be updated through a callback and a subset of the attributes, like the value properties of the dcc.Dropdown, are editable by the user in the interface.
+
+-

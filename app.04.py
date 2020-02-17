@@ -4,6 +4,10 @@ import dash_html_components as html
 import pandas as pd
 
 """
+More about Visualization
+
+Basic Plotly Dash App w/Graph Component (Scatterplot).
+
 The dash_core_components library includes a component called Graph.
 
 Graph renders interactive data visualizations using the open source plotly.js JavaScript graphing library.
@@ -14,7 +18,7 @@ Plotly's open source Python graphing library. Check out the plotly.py documentat
 
 Here's an example that creates a scatter plot from a Pandas dataframe for life expectancy vs GDP.
 
-These graphs are interactive and responsive. Hover over points to see their values, click on legend items to
+NOTE: These graphs are interactive and responsive. Hover over points to see their values, click on legend items to
 toggle traces, click and drag to zoom, hold down shift, and click and drag to pan.
 """
 
