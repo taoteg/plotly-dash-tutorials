@@ -4,6 +4,17 @@ import dash_core_components as dcc
 import dash_html_components as html
 import pandas as pd
 
+"""
+Part 5B: Interactive Visualizations (Basic)
+
+Let's update our world indicators example from the previous chapter by updating
+time series when we hover over points in our scatter plot.
+
+Try mousing over the points in the scatter plot on the left.
+Notice how the line graphs on the right update based off of the point that
+you are hovering over.
+"""
+
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
