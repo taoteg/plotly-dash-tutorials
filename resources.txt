@@ -1,0 +1,72 @@
+Plotly Dash Resource List
+
+-----------------------
+Plotly Dash
+
+- https://plot.ly/dash/
+- https://dash.plot.ly/
+- https://dashr.plot.ly/?_ga=2.72106768.2023386239.1582568405-1984378524.1582568405
+
+-----------------------
+Plotly.JS
+
+- https://plot.ly/javascript/
+
+-----------------------
+Gallery
+
+- https://dash-gallery.plotly.host/Portal/
+
+-----------------------
+Component Libraries
+
+- https://dash.plot.ly/dash-core-components
+- https://dash.plot.ly/dash-html-components
+- https://dash.plot.ly/datatable
+- https://dash.plot.ly/dash-bio
+- https://dash.plot.ly/dash-daq
+- https://dash.plot.ly/canvas
+- https://dash.plot.ly/cytoscape
+
+-----------------------
+Dev Tuts
+
+- https://dash.plot.ly/react-for-python-developers
+- https://dash.plot.ly/plugins
+- https://dash.plot.ly/d3-react-components
+  -- https://gist.github.com/alexcjohnson/a4b714eee8afd2123ee00cb5b3278a5f
+  -- https://github.com/plotly/dash-sunburst
+  -- https://github.com/plotly/dash-network
+  -- https://github.com/plotly/dash-docs/issues/242
+
+-----------------------
+Beyond Basics
+
+- https://dash.plot.ly/performance
+- https://dash.plot.ly/live-updates
+- https://dash.plot.ly/external-resources
+- https://dash.plot.ly/urls
+- https://dash.plot.ly/persistence
+- https://dash.plot.ly/devtools
+- https://dash.plot.ly/loading-states
+- https://dash.plot.ly/testing
+
+-----------------------
+Production
+
+- https://dash.plot.ly/authentication
+- https://dash.plot.ly/deployment
+- https://dash.plot.ly/integrating-dash
+
+-----------------------
+Help
+
+- https://community.plot.ly/c/dash?_ga=2.8957878.2023386239.1582568405-1984378524.1582568405
+- https://dash.plot.ly/support
+
+-----------------------
+Dash Enterprise
+
+- https://plot.ly/dash/
+- https://dash.plot.ly/dash-enterprise
+  -- this is a whole other set of docs.
